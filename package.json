@@ -1,0 +1,19 @@
+{
+  "name": "exemplo-node-cron-3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "node-cron": "^3.0.0",
+    "ora": "^6.1.0",
+    "puppeteer": "^13.5.1"
+  }
+}
